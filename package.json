@@ -2,9 +2,9 @@
   "name": "metalsmith-autoprefixer",
   "version": "0.1.0",
   "description": "metalsmith autoprefixer plugin",
-  "main": "lib/plugin.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,10 @@
   "dependencies": {
     "autoprefixer": "^1.1.20140327",
     "minimatch": "^0.2.14"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "metalsmith": "^0.5.0",
+    "assert-dir-equal": "^1.0.1"
   }
 }
