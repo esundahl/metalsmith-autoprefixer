@@ -4,5 +4,7 @@ node_js:
   - "0.10"
   - "0.8"
   - "0.6"
-install: npm install
+install:
+  - npm update
+  - npm install
 script: npm test
