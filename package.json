@@ -1,0 +1,27 @@
+{
+  "name": "metalsmith-autoprefixer",
+  "version": "0.1.0",
+  "description": "metalsmith autoprefixer plugin",
+  "main": "lib/plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esundahl/metalsmith-autoprefixer"
+  },
+  "keywords": [
+    "metalsmith",
+    "autoprefixer"
+  ],
+  "author": "Erik Sundahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esundahl/metalsmith-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/esundahl/metalsmith-autoprefixer",
+  "dependencies": {
+    "autoprefixer": "^1.1.20140327",
+    "minimatch": "^0.2.14"
+  }
+}
