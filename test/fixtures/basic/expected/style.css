@@ -2,13 +2,13 @@
   0% {
     opacity: 0;
     -webkit-transform: translateY(-2000px);
-    transform: translateY(-2000px);
+            transform: translateY(-2000px);
   }
 
   100% {
     opacity: 1;
     -webkit-transform: translateY(0);
-    transform: translateY(0);
+            transform: translateY(0);
   }
 }
 
@@ -16,17 +16,17 @@
   0% {
     opacity: 0;
     -webkit-transform: translateY(-2000px);
-    transform: translateY(-2000px);
+            transform: translateY(-2000px);
   }
 
   100% {
     opacity: 1;
     -webkit-transform: translateY(0);
-    transform: translateY(0);
+            transform: translateY(0);
   }
 }
 
 .fade-in-down-big {
   -webkit-animation-name: fade-in-down-big;
-  animation-name: fade-in-down-big;
+          animation-name: fade-in-down-big;
 }

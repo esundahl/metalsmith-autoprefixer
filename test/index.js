@@ -15,7 +15,7 @@ describe('metalsmith-autoprefixer', function() {
   })
   it('should take options and propagate to autoprefixer', function(done){
     Metalsmith('test/fixtures/options')
-      .use(autoprefixer({ browsers: 'Chrome 30', cascade: true }))
+      .use(autoprefixer({ browsers: 'Chrome 30', cascade: false }))
       .build(function(err) {
         if (err) return done(err)
         assertDir('test/fixtures/options/expected', 'test/fixtures/options/build')
