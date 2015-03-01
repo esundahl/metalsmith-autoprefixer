@@ -1,5 +1,5 @@
 {
-  "name": "metalsmith-autoprefixer",
+  "name": "metalsmith-autoprefixer-gustavnikolaj",
   "version": "0.1.2",
   "description": "metalsmith autoprefixer plugin",
   "main": "lib/index.js",
@@ -15,6 +15,9 @@
     "autoprefixer"
   ],
   "author": "Erik Sundahl",
+  "contributors": [
+    "Gustav Nikolaj <gustavnikolaj@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/esundahl/metalsmith-autoprefixer/issues"
