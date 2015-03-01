@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-autoprefixer-gustavnikolaj",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "metalsmith autoprefixer plugin",
   "main": "lib/index.js",
   "scripts": {
