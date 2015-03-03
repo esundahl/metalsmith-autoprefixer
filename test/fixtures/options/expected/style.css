@@ -1,0 +1,4 @@
+h1 {
+    -webkit-animation-name: 'foo';
+    animation-name: 'foo';
+}
