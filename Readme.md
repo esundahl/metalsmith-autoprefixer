@@ -17,6 +17,18 @@ npm install --save metalsmith-autoprefixer
 If you haven't checked out [Metalsmith](http://metalsmith.io/) before, head over to their website and check out the
 documentation.
 
+In order to use this plugin, you need to include the `autoprefixer` module in your `package.json` file:
+```json
+{
+  ...
+  "dependencies": {
+    ...
+    "autoprefixer": "*"
+  }
+  
+}
+```
+
 ## CLI Usage
 
 If you are using the command-line version of Metalsmith, you can install via npm, and then add the
