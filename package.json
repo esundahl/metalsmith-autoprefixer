@@ -25,7 +25,8 @@
   },
   "dependencies": {
     "minimatch": "^2.0.1",
-    "autoprefixer": "^5.1.0"
+    "autoprefixer-core": "^5.0.0",
+    "postcss": "^4.1.11"
   },
   "devDependencies": {
     "assert-dir-equal": "^1.0.1",
