@@ -24,13 +24,13 @@
     "autoprefixer": "*"
   },
   "dependencies": {
-    "minimatch": "^2.0.1",
-    "autoprefixer-core": "^5.2.1",
-    "postcss": "^4.1.11"
+    "autoprefixer": "^6.1.0",
+    "minimatch": "^3.0.0",
+    "postcss": "^5.0.12"
   },
   "devDependencies": {
     "assert-dir-equal": "^1.0.1",
-    "metalsmith": "^1.3.0",
+    "metalsmith": "^2.1.0",
     "mocha": "^2.1.0"
   }
 }
