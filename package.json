@@ -23,6 +23,9 @@
   "peerDependency": {
     "autoprefixer": "*"
   },
+  "engines": {
+    "node": ">=4.2.0"
+  },
   "dependencies": {
     "autoprefixer": "^6.1.0",
     "minimatch": "^3.0.0",
