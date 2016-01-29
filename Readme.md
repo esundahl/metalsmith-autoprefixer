@@ -1,6 +1,8 @@
 metalsmith-autoprefixer
 ===============
 
+[![Join the chat at https://gitter.im/esundahl/metalsmith-autoprefixer](https://badges.gitter.im/esundahl/metalsmith-autoprefixer.svg)](https://gitter.im/esundahl/metalsmith-autoprefixer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/esundahl/metalsmith-autoprefixer.svg?branch=master)](https://travis-ci.org/esundahl/metalsmith-autoprefixer)
 ![Dependencies](https://david-dm.org/esundahl/metalsmith-autoprefixer.png)
 
