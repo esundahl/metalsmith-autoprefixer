@@ -24,8 +24,8 @@
     "autoprefixer": "*"
   },
   "dependencies": {
-    "minimatch": "^2.0.1",
     "autoprefixer-core": "^5.2.1",
+    "minimatch": "^3.0.3",
     "postcss": "^4.1.11"
   },
   "devDependencies": {
